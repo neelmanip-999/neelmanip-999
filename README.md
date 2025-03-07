@@ -1,26 +1,44 @@
-<h1 align="center">Hi 👋, I'm Neelmani Pandey</h1>
-<h3 align="center">I am a Computer Science and Engineering (CSE) student, deeply interested in building scalable applications and exploring the latest advancements in technology. I love solving Data Structures & Algorithms (DSA) problems, working with MERN stack, and diving into systems-level programming. My curiosity drives me to continuously learn and contribute to the tech community</h3>
+### Hi there, I'm Neelmani Pandey! 👋
 
-- 🔭 I’m currently working on **TODO Management**
+## 🚀 About Me
+💻 **Computer Science & Engineering (CSE) Student | MERN Stack Developer | DSA Enthusiast**  
+🚀 Passionate about **building scalable applications** and **exploring cutting-edge technologies**.  
+📌 Love **solving Data Structures & Algorithms (DSA) problems** and diving into **systems-level programming**.  
+💡 Always eager to **collaborate on exciting projects**, contribute to **open-source**, and **learn new skills**!  
 
-- 🌱 I’m currently learning **MERN Stack and Python**
+## 🔨 Tech Stack & Skills
 
-- 👯 I’m looking to collaborate on **✅ Open-source projects related to MERN Stack, React.js, or Full-Stack development. ✅ Competitive programming challenges & DSA problem-solving. ✅ Hackathons & DevJams focused on web development and scalable applications. ✅ Building real-world applications using Java, Node.js, or Python.**
+### 🚀 Languages & Frameworks:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-- 💬 Ask me about **Java, Python, JavaScript**
+### 🛠️ Tools & Databases:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📫 How to reach me **neelmani.p999@gmail.com**
+## 🌱 Currently Learning
+- **MERN Stack** (Advanced concepts, System Design)
+- **Competitive Programming** (LeetCode, Codeforces)
 
-- ⚡ Fun fact **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
+## 💡 I’m Looking to Collaborate On
+- Open-source projects related to **Web Development** and **DSA**
+- **Full-stack projects** with innovative ideas
+- **Competitive Programming** discussions and problem-solving
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neelmani-pandey-93499b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelmani-pandey-93499b223/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/neelmanipandey09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/neelmanipandey09" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/neelmanipandey89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/neelmanipandey89/" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats
+![Neelmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelmanip-999&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelmanip-999&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelmani-pandey-93499b223/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/neelmanipandey89/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/neelmanipandey09)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelmanip-999&show_icons=true&locale=en&layout=compact" alt="neelmanip-999" /></p>
+📩 **Email:** neelmani.p999@gmail.com
+
+⚡ **Fun fact:** I think I’m funny, but my code thinks otherwise! 😆
