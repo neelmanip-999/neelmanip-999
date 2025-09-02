@@ -7,12 +7,33 @@
 
 ---
 
+## 🚀 About Me
+💻 **Computer Science & Engineering (CSE) Student | MERN Stack Developer | DSA Enthusiast**  
+🚀 Passionate about **building scalable applications** and **exploring cutting-edge technologies**.  
+📌 Love **solving Data Structures & Algorithms (DSA) problems** and diving into **systems-level programming**.  
+🤖 Completed **Machine Learning Course @ Coding Blocks** (Mentor: *Shubham Singhal Sir*)  
+💡 Always eager to **collaborate on exciting projects**, contribute to **open-source**, and **learn new skills**!  
+
+---
+
 ## 🏆 Achievements
 - ✅ Solved **700+ DSA Problems** on [LeetCode](https://leetcode.com/u/neelmanipandey89/) with **Max Rating: Knight (1948)**  
 - ✅ Solved **250+ DSA Problems** on [Codeforces](https://codeforces.com/profile/neelmanipandey09) with **Max Rating: Specialist (1525)**  
 - 🚀 Built multiple projects in **MERN, Java, Python**  
 - 🤖 Hands-on experience in **Machine Learning (NumPy, Pandas, Seaborn, Matplotlib)**  
-- 🌱 Active in **open-source** and **hackathons**
+- 🌱 Active in **open-source** and **hackathons**  
+
+---
+
+## 🌱 Currently Learning
+- **MERN Stack** (Advanced concepts, System Design)  
+- **Competitive Programming** (LeetCode, Codeforces)  
+- **Machine Learning** (Model Optimization, Data Visualization)  
+
+## 💡 I’m Looking to Collaborate On
+- Open-source projects related to **Web Development** and **DSA**  
+- **Full-stack projects** with innovative ideas  
+- **Competitive Programming** discussions and problem-solving  
 
 ---
 
@@ -74,4 +95,4 @@
 
 ---
 
-⚡ **Fun fact:** My brain works faster than my code when deadlines are close! 😎💪✨ 
+⚡ **Fun fact:** My brain runs faster than my code when deadlines are close 😎💪  
