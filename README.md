@@ -2,9 +2,16 @@
 
 # 👨‍💻 NEELMANI PANDEY
 
-### 💻 Full-Stack Developer • 🧠 Competitive Programmer • 🚀 Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Neelmani%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Guardian+%40+LeetCode+(2222+Rating);Candidate+Master+%40+Codeforces+(1900);700%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
+
+<p align="center">
+  <a href="https://linkedin.com/in/neelmani-pandey-93499b223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/neelmani_p999/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/neelmanipandey09"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:neelmani.p999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -171,13 +178,42 @@ Currently building:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelmanip-999&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=neelmanip-999&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<a href="https://github.com/neelmanip-999">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelmanip-999&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+</a>
+<a href="https://github.com/neelmanip-999">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelmanip-999&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&icon_color=00D9FF&title_color=00D9FF" alt="GitHub Stats" width="49%" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelmanip-999&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelmanip-999&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neelmanip-999&theme=algolia&utcOffset=5.5" width="49%" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelmanip-999&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=00D9FF&point=FFFFFF&line=00D9FF" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelmanip-999&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=00D9FF" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neelmanip-999&theme=tokyonight&utcOffset=5.5" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelmanip-999&theme=tokyonight" width="98%" />
+
+</div>
+
+---
+
+## 💻 CODING ACTIVITY
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=neelmanip999&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&title_color=00D9FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=neelmanip-999&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
 
 </div>
 
@@ -187,36 +223,52 @@ Currently building:
 
 <div align="center">
 
-### LeetCode Performance
-<img src="https://leetcard.jacoblin.cool/neelmani_p999?theme=dark&font=Ubuntu&ext=contest" width="60%" />
+### 🔥 Platform Statistics
 
-### Platform Stats
 <table>
 <tr>
 <td align="center" width="50%">
 
-**🟢 LeetCode**
-- Max Rating: **Guardian (2222)**
-- Problems Solved: **700+**
-- Contest Rating: **Top 5%**
-- Global Rank: **~50K**
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-[View Profile →](https://leetcode.com/u/neelmani_p999/)
+### **🟢 Guardian (2222)**
+
+```yaml
+Problems Solved: 700+
+Contest Rating: Top 5%
+Global Rank: ~50,000
+Max Rating: 2222
+```
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=neelmani_p999&theme=dark" width="90%" />
+
+[**View Profile →**](https://leetcode.com/u/neelmani_p999/)
 
 </td>
 <td align="center" width="50%">
 
-**🔵 Codeforces**
-- Max Rating: **Candidate Master (1900)**
-- Problems Solved: **250+**
-- Contest Participation: **50+**
-- Division: **Div 2**
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 
-[View Profile →](https://codeforces.com/profile/neelmanipandey09)
+### **🔵 Candidate Master (1900)**
+
+```yaml
+Problems Solved: 250+
+Contests: 50+
+Division: Div 2
+Max Rating: 1900
+```
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=neelmanipandey09&theme=github_dark" width="90%" />
+
+[**View Profile →**](https://codeforces.com/profile/neelmanipandey09)
 
 </td>
 </tr>
 </table>
+
+### 📊 LeetCode Stats Card
+
+<img src="https://leetcard.jacoblin.cool/neelmani_p999?theme=dark&font=Ubuntu&ext=contest&width=600" />
 
 </div>
 
@@ -286,17 +338,53 @@ Currently building:
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+*Note: Snake animation requires GitHub Actions setup. Follow the setup guide below.*
 
 </div>
+
+---
+
+## 🎮 SETUP SNAKE ANIMATION
+
+To enable the snake animation, create `.github/workflows/snake.yml` in your profile repository:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: neelmanip-999
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After setup, update the snake image URL to:
+```
+https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-snake-dark.svg
+```
 
 ---
 
@@ -305,10 +393,22 @@ Currently building:
 ### ⚡ Fun Fact
 **My brain runs faster than my code when deadlines are close** 😎💪
 
+<br/>
+
+### 🎯 Current Mood
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k3gbhnmqthvkhq3p5ijrs5vlpi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="400" />
+
+*or coding to silence when in the zone* 🎧
+
+<br/>
+
 ### 📊 Profile Stats
 <img src="https://komarev.com/ghpvc/?username=neelmanip-999&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 **Built with 💙 by Neelmani Pandey**
 
