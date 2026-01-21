@@ -318,6 +318,3 @@ Currently building:
 
 ---
 
-   - Your README will now show the animated snake!
-
-The snake will update automatically every 12 hours or whenever you push to main branch.
