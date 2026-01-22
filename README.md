@@ -23,7 +23,7 @@ const neelmani = {
 ```
 
 - 🚀 **Strong MERN full-stack foundation** with production-ready projects
-- 🧠 **Competitive programming mindset** - 950+ problems solved across platforms
+- 🧠 **Competitive programming mindset** - 1000 problems solved across platforms
 - 🛠️ **Clean code advocate** - I write maintainable, scalable solutions
 - 🔥 **Fast learner, faster executor** - From idea to deployment in days
 - 🌱 **Active contributor** to open-source and tech community
@@ -74,7 +74,7 @@ const neelmani = {
 | 🟢 LeetCode | Guardian Rating | **2222** |
 | 🔵 Codeforces | Candidate Master | **1900** |
 | ✅ Problems Solved | LeetCode + Codeforces | **950+** |
-| 🚀 GitHub Projects | Production-Ready | **15+** |
+| 🚀 GitHub Projects | Production-Ready | **10+** |
 | 🎓 Academic CGPA | Computer Science | **9.02/10** |
 
 ---
