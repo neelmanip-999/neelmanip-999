@@ -171,13 +171,11 @@ Currently building:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelmanip-999&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=neelmanip-999&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=neelmanip-999&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" /><img src="https://github-readme-stats.vercel.app/api?username=neelmanip-999&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelmanip-999&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelmanip-999&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neelmanip-999&theme=algolia&utcOffset=5.5" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelmanip-999&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neelmanip-999&theme=algolia&utcOffset=5.5" width="49%" />
 
 </div>
 
